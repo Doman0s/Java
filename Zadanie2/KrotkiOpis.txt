@@ -1,0 +1,13 @@
+Autor: Dominik Wątor
+
+Program posiada nastepujące możliwości:
+-logowanie
+-rejestracje
+-dodawanie produktów do koszyka
+-usuwanie produktów z koszyka
+-składanie zamówienia
+-wylogowywanie
+
+Aby się zalogować można uzyć nastepujących danych:
+-użytkownik1   login: admin, hasło: admin
+-użytkownik2   login: user, hasło: user
